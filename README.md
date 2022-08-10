@@ -19,13 +19,32 @@
 
 
 
+<br>
+Starting of the page contains what we have used in this page in terms of slope down,gallery ,home,contact us.<br>
+
+
+
 
  1[1] ![Screenshot 2022-08-10 223656](https://user-images.githubusercontent.com/110168203/183975278-d25702ae-539d-428f-a634-985ee2ce1a1a.jpeg)
 
 
 
+<br>
+It is a bird gallery
+<br>
+
+
+
+
 
 1[2] ![Screenshot 2022-08-10 225405](https://user-images.githubusercontent.com/110168203/183977103-8e5fae69-bffb-42f6-a03f-772600d67883.jpeg)
+
+
+
+
+<br>
+This page tells about the experience we have and number of happy customers.
+<br>
 
 
 
@@ -36,9 +55,23 @@
 
 
 
+<br>
+This page tells about the birds we have and inforamtion about the birds.
+<br>
+
+
+
+
+
 
 1[4]![Screenshot 2022-08-10 225548](https://user-images.githubusercontent.com/110168203/183977711-dea13c2b-d0a3-4a8f-a2aa-cc8e61afd742.jpeg)
 
+
+
+
+<br>
+This will tell the things you need to know about pets
+<br>
 
 
 
@@ -48,9 +81,21 @@
 
 
 
+<br>
+This is slope down page it contains facts about the birds.
+<br>
+
+
+
+
 
 
 1[6]![Screenshot 2022-08-10 225653](https://user-images.githubusercontent.com/110168203/183977820-eb45194b-4ce6-47b9-81e7-0b20d0d6c4c2.jpeg)
+
+
+
+
+<br>
 
 
 
