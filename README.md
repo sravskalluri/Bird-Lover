@@ -32,4 +32,4 @@
 
 
 
-  The link to my Future Ready Talent project is:
+  The link to my Future Ready Talent project is:https://gray-ground-0ee4f6510.1.azurestaticapps.net
